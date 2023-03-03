@@ -1,0 +1,53 @@
+{
+  "DisplayName": "RecoverValidatedClassificationResults",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "StorageBucketName",
+      "DisplayName": "StorageBucketName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ValidationAction",
+      "DisplayName": "ValidationAction",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ValidatedClassificationResults",
+      "DisplayName": "ValidatedClassificationResults",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ResultType",
+      "DisplayName": "ResultType",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}
